@@ -1,0 +1,43 @@
+# Node.js dependencies
+node_modules/
+
+# TypeScript build output
+dist/
+build/
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Operating system specific files
+.DS_Store      # macOS
+Thumbs.db      # Windows
+
+# VSCode directories
+.vscode/        # VSCode settings, workspace configurations
+
+# Package lock files (optional)
+# package-lock.json
+# yarn.lock
+
+# TypeScript declaration files
+
+
+# Environment files
+.env
+.env.local
+.env.production
+.env.test
+
+
+
+# Miscellaneous
+*.swp           # Swap files created by vim
+*.swo
+*.swn
+
+
+# Readme and documentation (optional)
+README.md
